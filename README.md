@@ -17,11 +17,13 @@ black (coded as 0 values) while the strokes are in white (coded as non-0 values)
 *********************************************************************************
 Task 0, Set up:
 
-Install the required libraries for this project by running the following commands:
+1. Install the required libraries for this project by running the following commands:
 pip install scikit-learn
 pip install scipy
 pip install numpy
 pip install matplotlib
+
+2. Unzip the mnist_test_train.zip into your directory to get the mnist_test.csv and mnist_train.csv files.
 
 
 *********************************************************************************
