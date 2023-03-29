@@ -26,8 +26,10 @@ pip install matplotlib
 
 *********************************************************************************
 Task 1:  Run main.py with exp = Exp01() uncommented in the main function
-This is a working pipeline which reads in the data for a digit, reshapes the data, and visualizes it using matplotlib. It visualizes samples indexes 0, 42, 156 of the training data and samples 0, 42, 542 of the testing data.
 
+This is a working pipeline which reads in the data for a digit, reshapes the data, and visualizes it using matplotlib. It visualizes samples indexes 0, 42, 156 of the training data and samples 0, 42, 542 of the testing data.
+*********************************************************************************
 Task 2:  Run main.py with exp = Exp02() uncommented in the main function
+
 This uses linear regression to classify images in the MNIST dataset with the scikit-learn library and evaluates the model.
 This includes the Mean Error Rate for the train and test data.
